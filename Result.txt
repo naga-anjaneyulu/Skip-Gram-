@@ -1,0 +1,326 @@
+**********
+testing: walk - walking = swim - swimming
+Sorry, walking not in word2idx
+testing: france - paris = japan - tokyo
+Sorry, japan not in word2idx
+testing: france - paris = china - beijing
+Sorry, beijing not in word2idx
+testing: february - january = december - november
+Sorry, february not in word2idx
+testing: france - paris = germany - berlin
+got: france - paris = corporation - berlin
+closest 10:
+berlin 0.3596230095174071
+corporation 0.5331447219434224
+please 0.5370560166836496
+individual 0.5669985190165385
+billion 0.5964651744851275
+therefore 0.61650650608759
+powers 0.6224101216304356
+france 0.6255449861826012
+gain 0.6268457517389945
+average 0.6324475241359714
+dist to germany: 1.1536335389003818
+testing: week - day = year - month
+got: week - day = our - month
+closest 10:
+month 0.2419760102224544
+week 0.30551407837580413
+our 0.5439509738112557
+contemporary 0.5770180823001569
+raised 0.6013033437544318
+respect 0.6052577605121131
+exchange 0.6059179312540617
+caught 0.6135198754536217
+phil 0.6148284783534568
+nearly 0.618807482675957
+dist to year: 0.8652922872456787
+testing: week - day = hour - minute
+Sorry, minute not in word2idx
+testing: king - man = queen - woman
+got: king - man = see - woman
+closest 10:
+king 0.3055655176696572
+woman 0.42026141628926383
+see 0.5112595119610663
+particularly 0.5157170850427419
+didn't 0.5198225463520734
+nation 0.5311665073943345
+aj 0.5403254254591754
+types 0.5544541969581289
+day 0.558797994174137
+true 0.568246656579426
+dist to queen: 1.150751147359948
+testing: king - prince = queen - princess
+Sorry, prince not in word2idx
+testing: miami - florida = dallas - texas
+Sorry, miami not in word2idx
+testing: einstein - scientist = picasso - painter
+Sorry, einstein not in word2idx
+testing: japan - sushi = germany - bratwurst
+Sorry, japan not in word2idx
+testing: man - woman = he - she
+got: man - woman = despite - she
+closest 10:
+despite 0.5187904719267611
+come 0.5671599128561519
+group 0.5765287279640765
+man 0.5984606864823656
+asked 0.6205752017376767
+child 0.6228029453344032
+with 0.6316526283673733
+things 0.633148642733492
+closer 0.6416479634602346
+knew 0.6420419519702493
+dist to he: 0.688135465596012
+testing: man - woman = uncle - aunt
+Sorry, aunt not in word2idx
+testing: man - woman = brother - sister
+Sorry, sister not in word2idx
+testing: paris - france = rome - italy
+got: paris - france = characteristic - italy
+closest 10:
+italy 0.3262850568487209
+paris 0.5307137338687973
+characteristic 0.5506918972570622
+scientific 0.5861186493796303
+independence 0.5936218008379454
+live 0.6163935244799547
+shown 0.6172216168496472
+wall 0.6259978469452729
+goal 0.6289606080387273
+achieved 0.6296968219244544
+dist to rome: 0.6911454286289826
+testing: france - french = england - english
+got: france - french = miles - english
+closest 10:
+france 0.4181473962482186
+english 0.5320330548755137
+miles 0.5431313700004284
+usual 0.5441497752008554
+later 0.5653978934255394
+dead 0.568030893332801
+seen 0.58264512152823
+sit 0.6169984866535015
+attempt 0.6375782040949523
+lead 0.6521009635149715
+dist to england: 0.9263204111198554
+testing: japan - japanese = china - chinese
+Sorry, japan not in word2idx
+testing: china - chinese = america - american
+Sorry, chinese not in word2idx
+testing: man - woman = husband - wife
+got: man - woman = congress - wife
+closest 10:
+wife 0.28825531651851666
+congress 0.5882115713165266
+season 0.6031602747281621
+soon 0.610273994886626
+surface 0.6248570990173847
+attention 0.6331010817178142
+loss 0.6336848480101269
+entire 0.6339642931563103
+event 0.638969116249571
+life 0.642371718886823
+dist to husband: 1.2065134387506475
+testing: man - woman = actor - actress
+Sorry, actor not in word2idx
+testing: man - woman = father - mother
+got: man - woman = attention - mother
+closest 10:
+mother 0.25046369143450864
+attention 0.45864502669115903
+despite 0.5292720284624747
+build 0.5295181236366453
+ways 0.5396860042475887
+life 0.5862386342903432
+meet 0.5923843685527754
+wore 0.5995373490298123
+getting 0.6042891794729655
+i've 0.6322811004279454
+dist to father: 1.2126605080927224
+testing: heir - heiress = prince - princess
+Sorry, heir not in word2idx
+testing: nephew - niece = uncle - aunt
+Sorry, nephew not in word2idx
+testing: france - paris = italy - rome
+got: france - paris = remain - rome
+closest 10:
+rome 0.36142904916817575
+france 0.4829030170916675
+remain 0.5119616217931389
+snow 0.5277011113326024
+traditional 0.552294503228637
+husband 0.5645050675417997
+communism 0.5833088610996623
+turned 0.6052331436066148
+reports 0.6125451692830681
+friendly 0.6166060381050609
+dist to italy: 0.6431249065262424
+testing: japan - japanese = italy - italian
+Sorry, japan not in word2idx
+testing: japan - japanese = australia - australian
+Sorry, japan not in word2idx
+**********
+testing: walk - walking = swim - swimming
+Sorry, walking not in word2idx
+testing: france - paris = japan - tokyo
+Sorry, japan not in word2idx
+testing: france - paris = china - beijing
+Sorry, beijing not in word2idx
+testing: february - january = december - november
+Sorry, february not in word2idx
+testing: france - paris = germany - berlin
+got: france - paris = reduce - berlin
+closest 10:
+france 0.4231980849597571
+berlin 0.43670975789318345
+reduce 0.5380971158615809
+support 0.5550108573593289
+announced 0.5648182898058026
+please 0.5672368025341226
+gain 0.588508445114138
+king 0.5920718698735239
+won't 0.607782089187088
+three 0.6202140210665588
+dist to germany: 0.9729646540192374
+testing: week - day = year - month
+got: week - day = commerce - month
+closest 10:
+month 0.2308639300708457
+week 0.2782449392154802
+commerce 0.4781129503794319
+last 0.5310995188197196
+school 0.5439711647113468
+serve 0.5861584152946184
+our 0.5919912648371458
+baseball 0.5929892942785848
+state 0.5956536689741915
+respect 0.6001153034706634
+dist to year: 0.668104760398613
+testing: week - day = hour - minute
+Sorry, minute not in word2idx
+testing: king - man = queen - woman
+got: king - man = separate - woman
+closest 10:
+king 0.21749060672004483
+woman 0.34221269902120555
+separate 0.551006965877905
+husband 0.5535051239999862
+sex 0.5537539040651359
+won't 0.5610292533108737
+sky 0.5861531523875597
+population 0.6019825036549352
+starting 0.6144975785234259
+real 0.6165238058254534
+dist to queen: 1.2417856057900758
+testing: king - prince = queen - princess
+Sorry, prince not in word2idx
+testing: miami - florida = dallas - texas
+Sorry, miami not in word2idx
+testing: einstein - scientist = picasso - painter
+Sorry, einstein not in word2idx
+testing: japan - sushi = germany - bratwurst
+Sorry, japan not in word2idx
+testing: man - woman = he - she
+got: man - woman = doubt - she
+closest 10:
+doubt 0.5902103095447637
+poet 0.6012554247873876
+indeed 0.6030481716378426
+bad 0.6072146401626402
+enter 0.6171911041456062
+relation 0.6355395258301382
+despite 0.6415731897063568
+ball 0.6496923994698114
+chicago 0.6612697392232247
+that's 0.6621119074904475
+dist to he: 0.8452896895273098
+testing: man - woman = uncle - aunt
+Sorry, aunt not in word2idx
+testing: man - woman = brother - sister
+Sorry, sister not in word2idx
+testing: paris - france = rome - italy
+got: paris - france = stayed - italy
+closest 10:
+italy 0.39573968302166107
+paris 0.45767335975435264
+stayed 0.5492453836071753
+plants 0.5613971519365619
+tom 0.5745720958925611
+itself 0.5791692064645998
+among 0.5808075345548533
+achieved 0.5985441752296603
+escape 0.6137978226134689
+patient 0.6278619006092754
+dist to rome: 0.7946966183494563
+testing: france - french = england - english
+got: france - french = seen - english
+closest 10:
+france 0.30303724078896
+english 0.5166099760545338
+seen 0.5633961851432473
+10 0.6154110070120881
+inches 0.6207544827889759
+understood 0.6306999474861879
+takes 0.6315394131910421
+try 0.6456046174991026
+course 0.6562991107854961
+p.m. 0.6632932675017171
+dist to england: 0.799147358260341
+testing: japan - japanese = china - chinese
+Sorry, japan not in word2idx
+testing: china - chinese = america - american
+Sorry, chinese not in word2idx
+testing: man - woman = husband - wife
+got: man - woman = complex - wife
+closest 10:
+wife 0.38773777400559006
+complex 0.6263009408648333
+avoid 0.6266053028716237
+because 0.6304689450886117
+main 0.6412465536697562
+happen 0.6422980665887745
+college 0.6444859941074088
+boston 0.6501645177758693
+: 0.6568384628758899
+that 0.656989592827609
+dist to husband: 1.0735336305147571
+testing: man - woman = actor - actress
+Sorry, actor not in word2idx
+testing: man - woman = father - mother
+got: man - woman = presented - mother
+closest 10:
+mother 0.26422096419190166
+presented 0.5704112449884609
+initial 0.5885030747843224
+radio 0.5936063245436736
+membership 0.5989912581473876
+despite 0.6005279281500266
+doubt 0.6167182641902629
+poet 0.6344034662358466
+indeed 0.6418716283959514
+college 0.6431398459461792
+dist to father: 0.8535584673455197
+testing: heir - heiress = prince - princess
+Sorry, heir not in word2idx
+testing: nephew - niece = uncle - aunt
+Sorry, nephew not in word2idx
+testing: france - paris = italy - rome
+got: france - paris = column - rome
+closest 10:
+france 0.3726922731922162
+rome 0.41372121458327504
+column 0.5614748856977534
+please 0.5834417350395127
+days 0.5899119804811345
+trip 0.594507806088903
+fair 0.608274570374191
+then 0.6106446110078488
+front 0.6394612464811288
+flowers 0.6414227382313353
+dist to italy: 0.7272536963919002
+testing: japan - japanese = italy - italian
+Sorry, japan not in word2idx
+testing: japan - japanese = australia - australian
+Sorry, japan not in word2idx
